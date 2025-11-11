@@ -7,6 +7,7 @@
         <title>Laravel</title>
         <!-- TAMBAHAN DIKA-->
         <h1>Halaman Tambahan<h1>
+        <H2>tambahan</H2>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
