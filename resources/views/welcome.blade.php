@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
+        <!-- TAMBAHAN DIKA-->
         <h1>Halaman Tambahan<h1>
 
         <!-- Fonts -->
