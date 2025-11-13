@@ -6,6 +6,7 @@
 
         <title>Laravel</title>
         <H1>LARAVEL MONITORING</H1>
+        <H2>LARAVEL H2</H2>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
