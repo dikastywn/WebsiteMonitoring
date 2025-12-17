@@ -9,5 +9,5 @@ Route::get('/api/sensor/chart', [SensorController::class, 'getChartData']);
 
 //tambah api
 Route::get('/api1', [SensorController::class, 'index']);
-
+//route dashboard
 Route::get('/dashboard', [SensorController::class, 'index']);
